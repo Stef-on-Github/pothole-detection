@@ -1,0 +1,6 @@
+train: C:/Users/Stef/Pictures/dataset_new/train/images
+val: C:/Users/Stef/Pictures/dataset_new/val/images
+test: C:/Users/Stef/Pictures/dataset_new/test/images
+
+nc: 2  # number of classes
+names: ['normal', 'pothole']  # class names
